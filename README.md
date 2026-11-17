@@ -1,5 +1,8 @@
 # 直凉圣若望堂 · 调查报道与照片集
 
+**在线版本：** https://nsl5383.github.io/triang-st-john-chapel/
+**GitHub 仓库：** https://github.com/nsl5383/triang-st-john-chapel
+
 > 地点：彭亨州百乐县**直凉（Triang）**。教堂华文名通常写作**圣若望堂**，部分媒体写作**圣诺望堂**；英文为 **Chapel of St John, Triang**。
 
 ## 这是什么
